@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485018796918",
+    "project_id": "crud-souvan-transport",
+    "storage_bucket": "crud-souvan-transport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485018796918:android:e9ed52387201fe76e03057",
+        "android_client_info": {
+          "package_name": "com.souvantransport.firebase_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485018796918-do8o7rckl2eeepqb2eb3ccanjda127q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnI1CNofjBI3VIUuF8QgCPTBXXAlIP_so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485018796918-do8o7rckl2eeepqb2eb3ccanjda127q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
